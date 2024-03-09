@@ -1,0 +1,8 @@
+button {
+  transition: all 1s;
+  cursor: none;
+}
+
+button:hover {
+  transform: scale(0.9);
+}/*# sourceMappingURL=Button.css.map */

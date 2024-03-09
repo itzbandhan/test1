@@ -1,0 +1,16 @@
+.custom_text{
+    letter-spacing: -1.25px;
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+    background-clip: text;
+    font-size: 36px;
+    // display: inline-block;
+    position: relative;
+}
+.custom_text_main{
+    -webkit-text-stroke: 0.01vw gray;
+    background: transparent;
+}
+.custom_text_second{
+    -webkit-text-stroke: 0.05vw rgb(0, 0, 0);
+}

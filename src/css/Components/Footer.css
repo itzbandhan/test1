@@ -1,0 +1,16 @@
+.social_logo {
+  width: 2rem;
+  transition: all 1s;
+}
+
+.social_logo:hover {
+  transform: scale(0.9);
+}
+
+.customHeight {
+  height: 15rem;
+}
+
+.getintouch {
+  font-weight: 700;
+}/*# sourceMappingURL=Footer.css.map */
