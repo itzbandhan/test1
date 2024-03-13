@@ -19,7 +19,7 @@ function Navbar() {
     <div className='shadow-md w-full relative top-0 left-0'>
         <nav className='md:flex items-center justify-between bg-white md:px-10 py-4'>
           <div className="ml-4 font-bold text-2xl cursor-pointer flex items-center text-gray-800">
-           <a href="/" className='custom_text custom_text_main'>Bandhan </a>
+           <a href="/" className='custom_text custom_text_main text-shadow-lg '>Bandhan </a>
           </div>
           <div onClick={()=>setOpen(!open)} className='text-3xl absolute right-8 top-6 cursor-pointer md:hidden'>
           <ion-icon name={open ? 'close':'menu'}></ion-icon>
