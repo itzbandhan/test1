@@ -1,5 +1,7 @@
 import React from "react";
 import "../css/pages/About.css";
+import bgimg from '/pfp.jpg'
+
 
 function About() {
   return (
@@ -11,7 +13,8 @@ function About() {
               <img
                 alt="gallery"
                 class="w-full object-cover h-full object-center  absolute inset-0"
-                src="https://scontent.fktm8-1.fna.fbcdn.net/v/t39.30808-6/419705627_18015404738106366_4371420958235081662_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=5f2048&_nc_ohc=H0zhDn7FckkAX-pUpMX&_nc_ht=scontent.fktm8-1.fna&oh=00_AfC5R5INKE68QoA_EFCS3CLLuF3nGB0iVG7NuS1aPZiFxg&oe=65F1BB99"
+                src={bgimg}
+
               />
             </div>
             <h1 className="custom_text font-bold custom_text_main">Hi again,
