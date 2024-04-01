@@ -19,7 +19,7 @@ const Footer = () => {
           <a href="mailto:codewithbandhan@gmail.com" target='_blank' className='hover:underline'>codewithbandhan@gmail.com</a>
         </div>
         <div className=' text-center'>
-          <span className='text-bold'><a href="https:github.com/itzbandhan/" target='_blank' className='hover:underline'>Bandhan Pokhrel</a></span> <span className='cursor-none'>© 2024 </span>
+          <span className='text-bold'><a href="https://github.com/itzbandhan/" target='_blank' className='hover:underline'>Bandhan Pokhrel</a></span> <span className='cursor-none'>© 2024 </span>
         </div>
     </div>
   )
