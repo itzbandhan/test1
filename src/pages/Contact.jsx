@@ -18,7 +18,7 @@ function Contact() {
           <h2 className="title-font font-semibold text-gray-900 tracking-widest text-xs">EMAIL</h2>
           <a className="text-indigo-500 leading-relaxed" href='mailto:codewithbandhan@gmail.com'>codewithbandhan@gmail.com</a>
           <h2 className="title-font font-semibold text-gray-900 tracking-widest text-xs mt-4">PHONE</h2>
-          <p className="leading-relaxed">+CONFIDENTIAL</p>
+          <p className="leading-relaxed">+9769260299</p>
         </div>
       </div>
     </div>
