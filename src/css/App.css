@@ -42,7 +42,7 @@
 }
 
 .custom_text_main {
-  -webkit-text-stroke: 0.01vw gray;
+  -webkit-text-stroke: 0.05vw gray;
   background: transparent;
 }
 
