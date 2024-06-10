@@ -12,7 +12,6 @@ import "./css/App.css"
 import Footer from "./components/Footer"
 import AnimatedCursor from "react-animated-cursor"
 
-
 function App() {
 
   return (
