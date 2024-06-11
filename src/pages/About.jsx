@@ -5,7 +5,7 @@ import bgimg from '/pfp.jpg'
 
 function About() {
   return (
-    <>
+    <div>
       <section class="text-gray-600 body-font">
         <div class="container px-5 py-24 mx-auto flex flex-wrap">
           <div class="lg:w-2/3 mx-auto">
@@ -50,7 +50,7 @@ function About() {
         <div className="items-center justify-center flex w-full h-10 custom_text custom_text_second" >HAAPY CODING!</div>
         </div>
       </section>
-    </>
+    </div>
   );
 }
 
